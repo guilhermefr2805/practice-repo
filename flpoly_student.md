@@ -1,27 +1,25 @@
-## First Name Last Name
+## Guilherme Bento
 
-### Term Year 
+### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Intro to Python
 
-- Course 3
-
-- Course 4
+- Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- League Of Legends
 
-- Thing 2
+- Animals
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Computer Science as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
